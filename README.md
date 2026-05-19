@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Wesley Oliveira
+# 👋 Hi, I'm Wesley Oliveira
 
 </div>
 
@@ -8,13 +8,13 @@
 <tr>
 <td width="60%" valign="top">
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-💻 Desenvolvedor Fullstack com foco em aplicações React (TypeScript) no frontend e .NET/Azure Functions no backend, construindo sistemas escaláveis e orientados a performance.
+💻 Fullstack Developer focused on React (TypeScript) applications on the frontend and .NET/Azure Functions on the backend, building scalable and performance-driven systems.
 
-🏗️ Atuo no desenvolvimento de interfaces modernas com React 19, React Query e design system próprio, integradas a APIs RESTful em Azure Functions.
+🏗️ I work on modern interfaces with React 19, React Query and an in-house design system, integrated with RESTful APIs on Azure Functions.
 
-🎓 **Análise e Desenvolvimento de Sistemas**
+🎓 **Systems Analysis and Development**
 
 </td>
 
@@ -40,9 +40,9 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=wmoraisoliveira&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)
+![](https://github-readme-stats.shion.dev/api?username=wmoraisoliveira&theme=default&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=wmoraisoliveira&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=wmoraisoliveira&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
 </td>
 </tr>
@@ -60,6 +60,6 @@
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleymoraisdeoliveira/)
