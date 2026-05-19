@@ -10,9 +10,9 @@
 
 ## 🚀 About me
 
-💻 Fullstack Developer focused on React (TypeScript) applications on the frontend and .NET/Azure Functions on the backend, building scalable and performance-driven systems.
+💻 Frontend Developer specialized in React (TypeScript), building modern, scalable and performance-driven interfaces.
 
-🏗️ I work on modern interfaces with React 19, React Query and an in-house design system, integrated with RESTful APIs on Azure Functions.
+🏗️ I work with React 19, React Query and an in-house design system — and occasionally venture into the backend with .NET and Azure Functions when needed.
 
 🎓 **Systems Analysis and Development**
 
