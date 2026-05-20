@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Wesley Oliveira
+# 👋 Hi, I'm Wesley
 
 </div>
 
@@ -8,11 +8,11 @@
 <tr>
 <td width="60%" valign="top">
 
-## 🚀 About me
+## 🧑🏻‍💻 About me
 
-💻 Frontend Developer specialized in React (TypeScript), building modern, scalable and performance-driven interfaces.
+💻 Frontend Developer React (TypeScript), building modern, scalable and performance-driven interfaces.
 
-🏗️ I work with React 19, React Query and an in-house design system — and occasionally venture into the backend with .NET and Azure Functions when needed.
+🏗️ I work with React 19, React Query, and an in-house design system — occasionally stepping into the backend with .NET and Azure Functions when needed.
 
 🎓 **Systems Analysis and Development**
 
